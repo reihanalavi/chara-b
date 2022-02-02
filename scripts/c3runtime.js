@@ -5101,6 +5101,7 @@ self.C3_JsPropNameTable = [
 	{Audio: 0},
 	{story: 0},
 	{btn_story: 0},
+	{swipe: 0},
 	{button: 0},
 	{music: 0},
 	{state: 0},
